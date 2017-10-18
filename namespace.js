@@ -27,7 +27,8 @@ var JUAR0008 = {
     
 }
 
-JUAR0008.init();
+
+//JUAR0008.init();
 
 
 //JUAR0008.changetored ("this is a test")
